@@ -11,7 +11,7 @@ Below, you will find the benchmark prompts, alongside examples of passing images
 
 ### 五个口字组成的字
 
-![五个口字组成的字](五个口字组成的字.png)
+![五个口字组成的字](images/五个口字组成的字.png)
 
 **Prompt:** An image of a Chinese character made up of five '口' characters.
 
@@ -24,7 +24,7 @@ This challenge tests an AI's understanding of Chinese characters and its ability
 
 ### Pure Black and White Uniform Diagonal Stripes
 
-![Pure Black and White Uniform Diagonal Stripes](pure_black_white_uniform_diagonal_stripes.png)
+![Pure Black and White Uniform Diagonal Stripes](images/pure_black_white_uniform_diagonal_stripes.png)
 
 **Prompt:** An image of pure black and white uniform diagonal stripes.
 
@@ -38,7 +38,7 @@ This image tests an AI's precision in strictly following directions. The challen
 
 ### Upside Down Snowman in Winter, The Snowman is Smiling
 
-![Upside Down Snowman in Winter, The Snowman is Smiling](upside_down_snowman_in_winter_the_snowman_is_smiling.png)
+![Upside Down Snowman in Winter, The Snowman is Smiling](images/upside_down_snowman_in_winter_the_snowman_is_smiling.png)
 
 **Prompt:** An upside-down snowman in a winter scene, with the snowman wearing a smile.
 
@@ -50,7 +50,7 @@ This image poses a challenge due to the unconventional arrangement (upside-down)
 
 ### Quadratic Formula in Chalk Written on Blackboard
 
-![Quadratic Formula in Chalk Written on Blackboard](quadratic_formula_in_chalk_written_on_blackboard.png)
+![Quadratic Formula in Chalk Written on Blackboard](images/quadratic_formula_in_chalk_written_on_blackboard.png)
 
 **Prompt:** An image showing the quadratic formula written in chalk on a blackboard.
 
@@ -64,7 +64,7 @@ This challenge evaluates an AI's ability to accurately replicate mathematical no
 
 ### Photo of a Horse Riding a Man
 
-![Photo of a Horse Riding a Man](photo_of_a_horse_riding_a_man.png)
+![Photo of a Horse Riding a Man](images/photo_of_a_horse_riding_a_man.png)
 
 **Prompt:** Photo of a horse riding a man.
 
@@ -78,7 +78,7 @@ This challenge pushes the boundaries of an AI's creativity and ability to interp
 
 ### Laptop Keyboard
 
-![Laptop Keyboard](laptop_keyboard.png)
+![Laptop Keyboard](images/laptop_keyboard.png)
 
 **Prompt:** An image of a laptop keyboard.
 
@@ -91,7 +91,7 @@ This image might seem straightforward but it tests an AI's attention to detail i
 
 ### Grass Font Alphabet with All Ten Numbers Below
 
-![Grass Font Alphabet with All Ten Numbers Below](grass_font_alphabet_with_all_ten_numbers_below.png)
+![Grass Font Alphabet with All Ten Numbers Below](images/grass_font_alphabet_with_all_ten_numbers_below.png)
 
 **Prompt:** An image showcasing the alphabet in a grass font style, with all ten numerals (0-9) displayed below in the same style.
 
@@ -105,7 +105,7 @@ This challenge tests an AI's ability to creatively apply textures and themes to 
 
 ### Diagram of The Big Dipper, Connect White Stars with Yellow Lines
 
-![Diagram of The Big Dipper, Connect White Stars with Yellow Lines](diagram_of_the_big_dipper_connect_white_stars_with_yellow_lines.png)
+![Diagram of The Big Dipper, Connect White Stars with Yellow Lines](images/diagram_of_the_big_dipper_connect_white_stars_with_yellow_lines.png)
 
 **Prompt:** An image illustrating the Big Dipper constellation, where the white stars are connected by yellow lines.
 
@@ -119,7 +119,7 @@ This challenge evaluates an AI's ability to understand which abstract shapes sho
 
 ### Clock and Its Reflection
 
-![Clock and Its Reflection](clock_and_its_reflection.png)
+![Clock and Its Reflection](images/clock_and_its_reflection.png)
 
 **Prompt:** An image of a clock and its reflection.
 
@@ -133,7 +133,7 @@ This image tests the AI's understanding of of how abstract objects would reflect
 
 ### Anatomy Diagram of the Brain
 
-![Anatomy Diagram of the Brain](anatomy_diagram_of_the_brain.png)
+![Anatomy Diagram of the Brain](images/anatomy_diagram_of_the_brain.png)
 
 **Prompt:** A detailed anatomy diagram of the brain.
 
