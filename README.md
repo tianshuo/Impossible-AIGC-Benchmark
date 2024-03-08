@@ -32,7 +32,7 @@ This challenge tests an AI's understanding of Chinese characters and its ability
 This image tests an AI's precision in strictly following directions. The challenge lies in maintaining consistent width and angle across the stripes, without any deviation. An AI passes this test by producing a pattern that:
 1. Has only pure black (#000000) and pure white (#FFFFFF)
 2. Has multiple stripes, the width of each stripe is exactly the same for each black and white stripe.
-3. The angle of the stripes are not 0° or 90°.
+3. The angle of the stripes is not either 0° or 90°.
 
 ---
 
