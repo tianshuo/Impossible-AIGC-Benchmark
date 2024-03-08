@@ -141,3 +141,7 @@ This image tests the AI's understanding of of how abstract objects would reflect
 This challenge assesses an AI's capability to generate accurate anatomical illustrations and use correct labeling. It requires accurate memorization of the brain's structure, including various regions and their functions. An AI passes this test by producing an image that is:
 1. Scientifically accurate in shape, area, positional relationship
 2. Accurate in labeling each different part of the brain
+
+----
+
+Simplified Chinese Version(简体中文版)：[README-zhcn.md]
