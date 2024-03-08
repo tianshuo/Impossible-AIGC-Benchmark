@@ -2,9 +2,9 @@
 
 This repository hosts a benchmark for evaluating future AIGC's ability to create complex images. It consists of 10 images, each presenting a unique challenge to assess the AI's capability to interpret complex instructions and handle abstract concepts in image creation.
 
-To pass this benchmark, an AI must be able to successfully pass all ten challenges with a pass rate of at least 50% for each prompt. As of March 8, 2024, no AIGC framework has passed this test.
+To pass this benchmark, an AI must be able to successfully pass all ten challenges with a pass rate of at least 50% for each prompt. As of the creation date of March 8, 2024, no AIGC framework has passed this test.
 
-Below, you will find the benchmark prompts, alongside examples of passing images found on the Internet and an explanation of the challenges each prompt poses to AI.
+Below, you will find the benchmark prompts, alongside examples of passing images found on the Internet, and an explanation of the challenges each prompt poses to AI.
 
 
 ## Benchmark Images
@@ -70,7 +70,7 @@ This challenge evaluates an AI's ability to accurately replicate mathematical no
 
 **Challenge Explanation:**
 This challenge pushes the boundaries of an AI's creativity and ability to interpret and execute surreal or imaginative concepts. It tests the AI's understanding of role reversal and the physical feasibility of such a scenario. An AI would pass this test by creating an image that:
-1. There should be nothing wrong about the horse and the man, seperately.
+1. There should be nothing wrong about the horse and the man, separately.
 2. The relationship between the horse and the man should be the horse should be carried by the man. 
 3. The relative sizes of the horse and man should be correct.
 
@@ -110,9 +110,9 @@ This challenge tests an AI's ability to creatively apply textures and themes to 
 **Prompt:** An image illustrating the Big Dipper constellation, where the white stars are connected by yellow lines.
 
 **Challenge Explanation:**
-This challenge evaluates an AI's ability to understand which abstract shapes should never be modified. It involves accurately remembering exact shape of the specific stars that form the Big Dipper constellation and connecting them correctly with yellow lines. An AI passes this test by generating an image that:
+This challenge evaluates an AI's ability to understand which abstract shapes should never be modified. It involves accurately remembering the exact shape of the specific stars that form the Big Dipper constellation and connecting them correctly with yellow lines. An AI passes this test by generating an image that:
 1. Correctly identifies and depicts the stars in a way that accurately represents the constellation's shape
-2. Connects the right stars with yellow lines 
+2. Connect the right stars with yellow lines 
 3. Doesn't have wrong stars in the picture.
 
 ---
@@ -124,7 +124,7 @@ This challenge evaluates an AI's ability to understand which abstract shapes sho
 **Prompt:** An image of a clock and its reflection.
 
 **Challenge Explanation:**
-This image tests the AI's understanding of of how abstract objects would reflect in real life. The complexity arises in accurately mirroring the clock, considering aspects such of the arrangement of reflected numbers and the position of the reflected needles. An AI would pass this test by creating an image where:
+This image tests the AI's understanding of how abstract objects would reflect in real life. The complexity arises in accurately mirroring the clock, considering aspects such of the arrangement of reflected numbers and the position of the reflected needles. An AI would pass this test by creating an image where:
 1. The clock is accurate
 2. The reflected clock is accurate when looked into a mirror
 3. The reflected clock should be exactly the same clock as the original clock when reflected.
